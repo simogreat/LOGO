@@ -1,0 +1,38 @@
+{
+  "name": "SimoGreat",
+  "short_name": "SimoGreat",
+  "start_url": "https://www.simogreat.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "مدونة عربية متنوعة المواضيع مهتمة بمجال العلوم والتكنولوجيا والمعلوميات... , تقدم شروحات و مقالات حصرية فى مختلف المجالات.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-hsyStDsA1Dc/X8PzCGjBgUI/AAAAAAAAAg8/0qAGfJyZsg8OUSoL4_m408FgbOf-iVEvgCNcBGAsYHQ/s48/www.simogreat.com.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-hsyStDsA1Dc/X8PzCGjBgUI/AAAAAAAAAg8/0qAGfJyZsg8OUSoL4_m408FgbOf-iVEvgCNcBGAsYHQ/s72/www.simogreat.com.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-hsyStDsA1Dc/X8PzCGjBgUI/AAAAAAAAAg8/0qAGfJyZsg8OUSoL4_m408FgbOf-iVEvgCNcBGAsYHQ/s96/www.simogreat.com.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-hsyStDsA1Dc/X8PzCGjBgUI/AAAAAAAAAg8/0qAGfJyZsg8OUSoL4_m408FgbOf-iVEvgCNcBGAsYHQ/s144/www.simogreat.com.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-hsyStDsA1Dc/X8PzCGjBgUI/AAAAAAAAAg8/0qAGfJyZsg8OUSoL4_m408FgbOf-iVEvgCNcBGAsYHQ/s168/www.simogreat.com.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-hsyStDsA1Dc/X8PzCGjBgUI/AAAAAAAAAg8/0qAGfJyZsg8OUSoL4_m408FgbOf-iVEvgCNcBGAsYHQ/s192/www.simogreat.com.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-hsyStDsA1Dc/X8PzCGjBgUI/AAAAAAAAAg8/0qAGfJyZsg8OUSoL4_m408FgbOf-iVEvgCNcBGAsYHQ/s512/www.simogreat.com.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
